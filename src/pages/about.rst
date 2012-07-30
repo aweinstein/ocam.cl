@@ -3,6 +3,9 @@ About
 
 :date: 2011-12-04
 
+.. image:: images/ajw.jpg
+   :alt: AJW
+   :class: right 
 
 Hi. I am Alejandro Weinstein, a PhD student in the EECS department at the
 Colorado School of Mines. I am working on Compressive Sensing and Robotics
