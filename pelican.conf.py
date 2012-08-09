@@ -10,24 +10,21 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG='en'
 
 # Blogroll
-LINKS =  (
-    ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-    ('Python.org', 'http://python.org'),
-    ('Jinja2', 'http://jinja.pocoo.org'),
-    ('You can modify those links in your config file', '#')
-         )
-
-# Social widget
-SOCIAL = (
-          ('You can add links in your config file', '#'),
-         )
+## LINKS =  (
+##     ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
+##     ('Python.org', 'http://python.org'),
+##     ('Jinja2', 'http://jinja.pocoo.org'),
+##     ('You can modify those links in your config file', '#')
+##          )
+LINKS = ()
 
 DEFAULT_PAGINATION = False
 
 DISPLAY_PAGES_ON_MENU = True
 
 SOCIAL = (('twitter', 'http://twitter.com/ajweinstein'),
-          ('github', 'http://github.com/aweinstein'),)
+          ('github', 'http://github.com/aweinstein'),
+          ('gplus', 'https://plus.google.com/u/0/104593724053901106301'))
 
 STATIC_PATHS = ['images',
                 'pdfs']
