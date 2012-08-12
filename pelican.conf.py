@@ -9,6 +9,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG='en'
 
+THEME = 'ocam-theme'
 # Blogroll
 ## LINKS =  (
 ##     ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
