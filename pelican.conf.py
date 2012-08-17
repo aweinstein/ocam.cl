@@ -5,7 +5,7 @@ AUTHOR = u"Alejandro Weinstein"
 SITENAME = u"AJW's site"
 SITEURL = 'http://www.ocam.cl'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG='en'
 
