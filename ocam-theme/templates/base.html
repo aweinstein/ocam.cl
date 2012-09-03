@@ -55,16 +55,14 @@
         {% if SOCIAL %}
                 <div class="social">
                         <h2>social</h2>
-                        <ul>
-                            <li><a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">atom feed</a></li>
+                            <a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">atom feed</a>
                             {% if FEED_RSS %}
-                            <li><a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">rss feed</a></li>
+                            <a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">rss feed</a>
                             {% endif %}
 
-                        {% for name, link in SOCIAL %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
-                        {% endfor %}
-                        </ul>
+                        {% for name, link in SOCIAL -%}
+                            <a href="{{ link }}">{{ name }}</a>
+                        {%- endfor %}
                 </div><!-- /.social -->
         {% endif %}
         </section><!-- /#extras -->
