@@ -4,6 +4,7 @@ On the Toponomy of the Coast of California
 :date: 2012-02-04
 :lang: en
 :author: Alejandro Weinstein
+:category: trivia
 
 San Diego, Santa Catalina, San Pedro, where all these names come from? I
 learned about it reading `“The Quark and the Jaguar: Adventures in the Simple
