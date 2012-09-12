@@ -54,10 +54,10 @@
         {% endif %}
         {% if SOCIAL %}
                 <div class="social">
-                        <h2>social</h2>
-                            <a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">atom feed</a>
+                        <h2>Follow</h2>
+                        <a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate">atom feed</a>
                             {% if FEED_RSS %}
-                            <a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">rss feed</a>
+                            <a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate">rss feed</a>
                             {% endif %}
 
                         {% for name, link in SOCIAL -%}
