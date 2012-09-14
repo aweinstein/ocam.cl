@@ -4,19 +4,13 @@
 AUTHOR = u"Alejandro Weinstein"
 SITENAME = u"AJW's site"
 SITEURL = 'http://www.ocam.cl'
+FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG='en'
 
 THEME = 'ocam-theme'
-# Blogroll
-## LINKS =  (
-##     ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-##     ('Python.org', 'http://python.org'),
-##     ('Jinja2', 'http://jinja.pocoo.org'),
-##     ('You can modify those links in your config file', '#')
-##          )
 LINKS = ()
 
 DEFAULT_PAGINATION = False
