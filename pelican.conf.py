@@ -5,6 +5,8 @@ AUTHOR = u"Alejandro Weinstein"
 SITENAME = u"AJW's site"
 SITEURL = 'http://www.ocam.cl'
 FEED_DOMAIN = SITEURL
+FEED_ATOM = 'feeds/all.atom.xml'
+
 
 TIMEZONE = 'America/Denver'
 
