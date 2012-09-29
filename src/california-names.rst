@@ -1,4 +1,4 @@
-On the Toponomy of the Coast of California
+On the Toponymy of the Coast of California
 ##########################################
 
 :date: 2012-02-04
