@@ -38,9 +38,6 @@
                     <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
                 {% endfor %}
                 {% endif %}
-                {% for cat, null in categories %}
-                    <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/category/{{ cat }}.html">#{{ cat }}</a></li>
-                {% endfor %}
                 </ul></nav>
         </header><!-- /#banner -->
         {% block content %}
