@@ -6,11 +6,11 @@ Using a command line parameter to specify the name of a function to call
 :author: Alejandro Weinstein
 :category: python
 
-When running some Python experiments, where typically each experiment
-corresponds to run a simulation under some particular conditions, I find useful
-to be able to call a particular function from the command line. For example, if
-I define the functions ``exp_1``, ``exp_2``, and ``exp_3``, I want to be able
-to do the following from the command line:
+When running some Python experiments |---| where typically each experiment
+corresponds to run a simulation under some particular conditions |---| I find
+useful to be able to call a particular function from the command line. For
+example, if I define the functions ``exp_1``, ``exp_2``, and ``exp_3``, I want
+to be able to do the following from the command line:
 
 .. code-block:: bash
 
@@ -51,3 +51,6 @@ Note that if you're using IPython, you can do
 
     In [1]: run foo exp_1
     Running experiment 1...
+
+
+.. |---| unicode:: U+2014  .. em dash, trimming surrounding whitespace
