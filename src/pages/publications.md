@@ -1,6 +1,5 @@
-Title: Publications
+Title: Publications 
 Date: 2011-12-08 17:30
-
 
 ### Preprints ###
 
@@ -82,4 +81,6 @@ and E. González. Sistema de dispositivo para el monitoreo en forma
 remota de una o más líneas de procesos de manufactura discreta. Chilean
 patent 763–2006, 2006.
 
-[My Google scholar profile](http://scholar.google.com/citations?user=jkHEZuoAAAAJ)
+
+Publications also available via my [Google Scholar
+profile](http://scholar.google.com/citations?user=jkHEZuoAAAAJ).
