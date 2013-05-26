@@ -3,7 +3,7 @@ About
 
 :date: 2011-12-04
 
-.. image:: static/images/ajw.jog
+.. image:: /static/images/ajw.jpg
    :alt: AJW
    :class: right 
 
