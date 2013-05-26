@@ -4,11 +4,13 @@
 AUTHOR = u"Alejandro Weinstein"
 SITENAME = u"AJW's site"
 SITEURL = 'http://www.ocam.cl'
+TIMEZONE = 'America/Santiago'
+#RELATIVE_URLS = True
 FEED_DOMAIN = SITEURL
-FEED_ATOM = 'feeds/all.atom.xml'
+#FEED_ATOM = 'feeds/foo/all.atom.xml'
 
 
-TIMEZONE = 'America/Denver'
+
 
 DEFAULT_LANG='en'
 

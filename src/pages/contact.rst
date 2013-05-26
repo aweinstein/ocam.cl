@@ -7,11 +7,10 @@ Contact Information
 
 :Mailing address:
    | Alejandro Weinstein
-   | Colorado School of Mines
-   | Dept. of Electrical Engineering and Computer Science
-   | 1500 Illinois St.
-   | Golden, CO 80401, USA
-
+   | Universidad de Valparaiso
+   | Escuela de Ingenieria Biomedica
+   | Av. El Parque 627, 4to piso, Playa Ancha
+   | Valparaíso, Chile
 
 :Email: 
    alejandro.weinstein@gmail.com
